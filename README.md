@@ -1,1 +1,4 @@
-# Struktur-Data-Tugas-1
+Struktur-Data-Tugas-1
+
+Nama : Ilham Dida Zakaria
+NIM : 054671901
